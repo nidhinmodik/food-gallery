@@ -19,7 +19,7 @@ nav ul li a{
     display: flex;
     justify-content: space-between;
     margin: 20px;
-    color: rgb(255,165,0);
+    color: rgb(35, 187, 89);
     text-decoration: none;
 }
 nav ul li a:hover{
